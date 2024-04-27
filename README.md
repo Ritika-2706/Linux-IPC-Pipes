@@ -111,8 +111,7 @@ exit(EXIT_SUCCESS);
 
 ## OUTPUT
 ![image](https://github.com/Ritika-2706/Linux-IPC-Pipes/assets/93427238/14eb0b6b-52c1-4d5f-afe2-1eef688c7bf3)
-## RESULT
-The program is executed successfully.
+
 
 
 
